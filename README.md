@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cfernandezsdq
-- 👀 I’m interested in all related to technology, app development, and gadgets.
+- 👀 I’m interested in all related to technology, networking, app development and gadgets.
 - 🌱 I’m currently learning HTML/CSS/Javascript, Java and Python.
 - 💞️ I’m looking to collaborate on any project that involves those languages. 
 - 📫 You can contact me by email at carlos.fernandez.sdq@gmail.com | Discord: cfernandezsdq 
