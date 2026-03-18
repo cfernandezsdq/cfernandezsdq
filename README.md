@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Carlos Fernandez
 
-**SQA Automation Engineer** with 10+ years of experience building scalable test automation frameworks and improving software quality for local and U.S.-based companies.
+**QA Automation Engineer** with 10+ years of experience building scalable test automation frameworks and improving software quality for local and U.S.-based companies.
 
 ---
 
@@ -23,7 +23,7 @@ Focused on improving release confidence, reducing regression time, and preventin
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Automation:**
 Playwright | Cypress | Selenium
@@ -44,11 +44,11 @@ Docker | Git | Node.JS
 
 ## Featured Projects
 
-🚧 (Coming soon — actively building and uploading automation frameworks)
+(Coming soon — actively building and uploading automation frameworks)
 
-* 🔹 Playwright E2E Automation Framework
-* 🔹 API Testing Framework (RestAssured)
-* 🔹 Cypress Testing Suite
+* Playwright E2E Automation Framework
+* API Testing Framework (RestAssured)
+* Cypress Testing Suite
 
 ---
 
